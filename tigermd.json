@@ -11,4 +11,11 @@
         "expirydate": "15-06-2025",
         "Allowoffline": false
     },
+    
+    {
+        "device_id": "a80f5028952a287f",
+        "key": "dost",
+        "expirydate": "15-06-2025",
+        "Allowoffline": false
+    },
 ]
