@@ -1,6 +1,6 @@
 {
-  "showUpdate": false,
-  "isExpired": false,
+  "showUpdate": true,
+  "isExpired": true,
   "expiryDate": "2026-12-31",
   "title": "🔔 New Update Available!",
   "message": "Please update the app to continue using it.",
