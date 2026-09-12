@@ -1,7 +1,7 @@
 {
-  "showUpdate": true,
-  "isExpired": true,
-  "expiryDate": "2021-3-31",
+  "showUpdate": false,
+  "isExpired": false,
+  "expiryDate": "2027-3-31",
   "title": "🔔 nova xp New Update Available!",
   "message": "Please update the app to continue using it.",
   "buttonText": "Update Now",
