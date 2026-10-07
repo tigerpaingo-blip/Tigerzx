@@ -1,7 +1,7 @@
 {
-  "showUpdate": true,
-  "isExpired": true,
-  "expiryDate": "2024-12-31",
+  "showUpdate": false,
+  "isExpired": false,
+  "expiryDate": "2027-12-31",
   "title": "",
   "message": "👇🏻",
   "buttonText": "Update Now",
